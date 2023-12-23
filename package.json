@@ -1,0 +1,18 @@
+{
+  "name": "backend_development",
+  "version": "1.0.0",
+  "description": "backend series in express js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Mujtaba Mubasher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
